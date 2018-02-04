@@ -16,6 +16,9 @@ public class JavaApplication9 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("*** WARA ***");
+        System.out.println("- Information and Technology -");
+         System.out.println("- 2018");
     }
     
 }
